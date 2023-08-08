@@ -1,0 +1,8 @@
+port: 8080
+# debug: false
+database:
+  host: localhost
+  port: 3306
+  user: root
+  password: rootroot
+  name: max_inventory
